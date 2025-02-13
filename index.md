@@ -2,15 +2,15 @@
 layout: project_page
 permalink: /
 
-title: 3D Reconstruction of SNU’s Haedong Building
+title: 3D Reconstruction of SNU’s <br><span style="color:red">Haedong Building</span>
 # authors:
 #     A. M. Turing
 # affiliations:
 #     King's College, Cambridge
 # paper: https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf
-video: 
+video: https://zang09.github.io/snu_haedong_3d/
 # code: https://github.com/topics/turing-machines
-data: 
+data: https://zang09.github.io/snu_haedong_3d/
 ---
 
 <!-- Using HTML to center the abstract -->
@@ -26,6 +26,5 @@ This project was carried out to introduce the Haedong Advanced Engineering Hall,
 ---
 
 ## Rendering Result
-
 
 ## Colourized Point Cloud
