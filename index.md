@@ -28,3 +28,6 @@ This project was carried out to introduce the Haedong Advanced Engineering Hall,
 ## Rendering Result
 
 ## Colourized Point Cloud
+![Whole Scene](https://zang09.github.io/snu_haedong_3d/static/images/whole_scene.gif)
+
+![Front](https://zang09.github.io/snu_haedong_3d/static/images/front.gif)
