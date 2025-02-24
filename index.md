@@ -18,6 +18,7 @@ data: https://zang09.github.io/snu_haedong_3d/
         <h2>About the Project</h2>
         <div class="content has-text-justified">
 This project was carried out to introduce the Haedong Advanced Engineering Hall, a new building at Seoul National University. This project page was created to capture the exterior of the Haedong Advanced Engineering Hall and visualize the reconstructed results.
+We generated a LiDAR prior map using a LiDAR SLAM-based method and estimated the camera poses through our point cloud-based Structure-from-Motion (SfM) technique. By accurately determining the camera positions, we reconstructed large-scale outdoor scenes in block units. This process allowed us to produce a high-quality, colorized point cloud and achieve high-fidelity rendered videos using 3D Gaussian Splatting. You can explore more detailed results on the webpage below.
         </div>
     </div>
 </div>
